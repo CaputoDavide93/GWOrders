@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GamesWorshop Orders Script
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      2.1
 // @description  Make the live of the account manager easy!
 // @author       Davide Caputo - CaputoDav@gmail.com
 //@match        https://www.games-workshop.com/*
